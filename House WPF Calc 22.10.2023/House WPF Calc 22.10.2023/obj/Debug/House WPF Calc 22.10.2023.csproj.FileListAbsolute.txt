@@ -1,0 +1,15 @@
+D:\ПРОЕКТЫ\Новая папка\House WPF Calc 22.10.2023\House WPF Calc 22.10.2023\obj\Debug\House WPF Calc 22.10.2023.csproj.AssemblyReference.cache
+D:\ПРОЕКТЫ\Новая папка\House WPF Calc 22.10.2023\House WPF Calc 22.10.2023\obj\Debug\App.g.cs
+D:\ПРОЕКТЫ\Новая папка\House WPF Calc 22.10.2023\House WPF Calc 22.10.2023\obj\Debug\House WPF Calc 22.10.2023_MarkupCompile.cache
+D:\ПРОЕКТЫ\Новая папка\House WPF Calc 22.10.2023\House WPF Calc 22.10.2023\bin\Debug\House WPF Calc 22.10.2023.exe.config
+D:\ПРОЕКТЫ\Новая папка\House WPF Calc 22.10.2023\House WPF Calc 22.10.2023\bin\Debug\House WPF Calc 22.10.2023.exe
+D:\ПРОЕКТЫ\Новая папка\House WPF Calc 22.10.2023\House WPF Calc 22.10.2023\bin\Debug\House WPF Calc 22.10.2023.pdb
+D:\ПРОЕКТЫ\Новая папка\House WPF Calc 22.10.2023\House WPF Calc 22.10.2023\obj\Debug\MainWindow.g.cs
+D:\ПРОЕКТЫ\Новая папка\House WPF Calc 22.10.2023\House WPF Calc 22.10.2023\obj\Debug\House WPF Calc 22.10.2023_MarkupCompile.lref
+D:\ПРОЕКТЫ\Новая папка\House WPF Calc 22.10.2023\House WPF Calc 22.10.2023\obj\Debug\MainWindow.baml
+D:\ПРОЕКТЫ\Новая папка\House WPF Calc 22.10.2023\House WPF Calc 22.10.2023\obj\Debug\House WPF Calc 22.10.2023.g.resources
+D:\ПРОЕКТЫ\Новая папка\House WPF Calc 22.10.2023\House WPF Calc 22.10.2023\obj\Debug\House_WPF_Calc_22._10._2023.Properties.Resources.resources
+D:\ПРОЕКТЫ\Новая папка\House WPF Calc 22.10.2023\House WPF Calc 22.10.2023\obj\Debug\House WPF Calc 22.10.2023.csproj.GenerateResource.cache
+D:\ПРОЕКТЫ\Новая папка\House WPF Calc 22.10.2023\House WPF Calc 22.10.2023\obj\Debug\House WPF Calc 22.10.2023.csproj.CoreCompileInputs.cache
+D:\ПРОЕКТЫ\Новая папка\House WPF Calc 22.10.2023\House WPF Calc 22.10.2023\obj\Debug\House WPF Calc 22.10.2023.exe
+D:\ПРОЕКТЫ\Новая папка\House WPF Calc 22.10.2023\House WPF Calc 22.10.2023\obj\Debug\House WPF Calc 22.10.2023.pdb
